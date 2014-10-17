@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kqy:home|Door43 (kqy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kqy|d43-kqy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kqy/archive/master.zip|d43-kqy.zip]]
+
+**Recent Changes**
+{{changes>ns = kqy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kqy|Ethnologue data]]
+
